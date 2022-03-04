@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\Angel\Angel\bin\Debug\Angel.exe.config
+C:\Users\angel\source\repos\Angel\Angel\bin\Debug\Angel.exe
+C:\Users\angel\source\repos\Angel\Angel\bin\Debug\Angel.pdb
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.Form1.resources
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.Properties.Resources.resources
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.exe
+C:\Users\angel\source\repos\Angel\Angel\obj\Debug\Angel.pdb
